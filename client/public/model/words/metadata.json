@@ -1,0 +1,19 @@
+{
+    "tfjsVersion": "1.7.4",
+    "tmVersion": "2.4.10",
+    "packageVersion": "0.8.4-alpha2",
+    "packageName": "@teachablemachine/image",
+    "timeStamp": "2025-05-14T08:32:47.858Z",
+    "userMetadata": {},
+    "modelName": "tm-my-image-model",
+    "labels": [
+        "Love",
+        "Sorry",
+        "Please",
+        "No",
+        "Yes",
+        "GoodBye",
+        "Hello"
+    ],
+    "imageSize": 224
+}
